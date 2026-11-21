@@ -1,1 +1,1 @@
-VFREM2  
+Multi Criteria desicion support system
